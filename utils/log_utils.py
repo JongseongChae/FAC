@@ -106,7 +106,6 @@ def setup_wandb(
             attempt += 1
 
 
-
 def reshape_video(v, n_cols=None):
     """Helper function to reshape videos."""
     if v.ndim == 4:
