@@ -1,0 +1,16 @@
+ogbench == 1.1.0
+jax >= 0.5.3
+jax[cuda12]
+flax >= 0.10.4
+distrax >= 0.1.5
+ml_collections
+matplotlib
+moviepy
+wandb
+d4rl
+gymnasium == 0.29.1
+gym == 0.23.1
+numpy == 1.26.4
+shimmy[gym-v21,gym-v26]
+Cython < 3
+git+https://github.com/aravindr93/mjrl.git # for MuJoCo
