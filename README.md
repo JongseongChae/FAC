@@ -1,6 +1,6 @@
-# Flow Actor-Critic for Offline Reinforcement Learning
+# Flow Actor-Critic
 
-Flow Actor-Critic (FAC) is a deep RL algorithm that leverages an expressive flow-matching model not only for flow-based actor design but also for conservative critic design.
+This repository provides the implmentation of [Flow Actor-Critic for Offline Reinforcement Learning](https://arxiv.org/abs/2602.18015v1), accepted to ICLR 26. Flow Actor-Critic (FAC) is a deep RL algorithm that leverages an expressive flow-matching model not only for flow-based actor design but also for conservative critic design.
 
 ## Installation
 
