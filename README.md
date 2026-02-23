@@ -231,3 +231,15 @@ python main_baselines.py --agent='agents/fql.py' --env_name=walker2d-medium-expe
 ## Base Implementation
 
 This codebase was built upon the implementation of [FQL](https://github.com/seohongpark/fql), and with reference to [Flow Matching](https://github.com/facebookresearch/flow_matching).
+
+## Citation
+```
+@inproceedings{
+chae2026flow,
+title={Flow Actor-Critic for Offline Reinforcement Learning},
+author={Jongseong Chae and Jongeui Park and Yongjae Shin and Gyeongmin Kim and Seungyul Han and Youngchul Sung},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=wuncwN7iZN}
+}
+```
