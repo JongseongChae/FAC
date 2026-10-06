@@ -228,9 +228,9 @@ python main_baselines.py --agent='agents/fql.py' --env_name=walker2d-medium-expe
 </details>
 
 
-## Base Implementation
+## Acknowledgments
 
-This codebase was built upon the implementation of [FQL](https://github.com/seohongpark/fql), and with reference to [Flow Matching](https://github.com/facebookresearch/flow_matching).
+This codebase was built upon the implementation of [FQL](https://github.com/seohongpark/fql). We also referred to [Flow Matching](https://github.com/facebookresearch/flow_matching) when implementing the density evaluation for the flow model.
 
 ## Citation
 ```
